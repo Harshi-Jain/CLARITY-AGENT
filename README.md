@@ -1,12 +1,8 @@
 # CLARITY AGENT — ALL FILES
 # Copy each section below into GitHub using "Add file -> Create new file".
 # The filename to use is shown in the header comment above each section.
-# ==============================================================================
 
-
-# ==============================================================================
 # FILE: README.md
-# ==============================================================================
 
 # Clarity — a personal decision agent
 
@@ -17,7 +13,6 @@ priorities, and gives you a recommendation with an honest confidence level —
 asking a follow-up question and looping again if it isn't sure yet.
 
 ## Why this problem
-
 Most "AI decision help" is a single prompt that produces a confident-sounding
 but ungrounded opinion. Clarity is built to be honest about uncertainty and
 grounded in current information, which is exactly where a single LLM call
